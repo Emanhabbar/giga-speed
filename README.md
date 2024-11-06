@@ -1,3 +1,3 @@
 # giga-speed
-
+This project is to design a user interface for a website that provides fast Internet service, entitled “GIGA - The Fastest Network in Syria.” The design shows a “Get Started” option to login or sign up, and also details the cards available, starting at $14 per month. The design seems intended for smartphone screens, as there are three versions of the design: one with a width of 768 pixels and the other with a width of 390 pixels. The third for 1024 The design contains sections such as the main title, card options, search buttons and other options to facilitate use.
 ![giga_speed](https://github.com/user-attachments/assets/8d8dbc18-1fc3-4887-9de5-2e5fc99449bc)
